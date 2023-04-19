@@ -24,7 +24,7 @@ export class RegistroComponent implements OnInit {
     // }
     console.log("Formulario Enviado");
     console.log(this.usuario);
-    console.log( form);
+    console.log( form );
 
    }
 
